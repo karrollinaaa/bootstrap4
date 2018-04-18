@@ -3,6 +3,7 @@
   font-family: 'open sans', sans-serif;
 }
 
+/* ramka */
 .canvas1 {
-  border: 1px solid pink;
+  border: 3px solid pink;
 }
